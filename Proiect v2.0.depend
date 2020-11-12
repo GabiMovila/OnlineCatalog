@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513052681 source:c:\users\gabi\desktop\proiect v2.0\inputs.c
+	"header.h"
+
+1513050744 c:\users\gabi\desktop\proiect v2.0\header.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1513053509 source:c:\users\gabi\desktop\proiect v2.0\main.c
+	"header.h"
+
+1513053487 source:c:\users\gabi\desktop\proiect v2.0\corectare si note.c
+	"header.h"
+
